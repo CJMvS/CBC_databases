@@ -1,0 +1,12 @@
+name: CBC_databases
+title: CBC_databases
+username:
+account: clarkevansteenderen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2230794
+bundleId: 3094934
+url: https://clarkevansteenderen.shinyapps.io/CBC_databases/
+when: 1588457885.05796
+asMultiple: FALSE
+asStatic: FALSE
